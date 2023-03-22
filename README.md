@@ -43,3 +43,14 @@ dvc push
 git add . && git commit -m "env created, req file added, got the dataset and start tracking data"
 git push origin main
 ```
+
+* create a jupyter notebook
+    * Model section
+        * **create functions**
+        * load the data
+        * EDA
+        * feature engineering
+        * Basic model creatin and making the prediction
+    * MLflow Section
+        * MLflow experiment creation
+        

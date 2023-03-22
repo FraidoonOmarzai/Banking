@@ -1,0 +1,16 @@
+artifact_uri: file:///home/programmer/Desktop/general/MLOps/Banking/mlruns/371023366034233991/f312c65d3bc649439b75dd48d95d2f65/artifacts
+deleted_time: 1679497485960
+end_time: 1679380886664
+entry_point_name: ''
+experiment_id: '371023366034233991'
+lifecycle_stage: deleted
+run_id: f312c65d3bc649439b75dd48d95d2f65
+run_name: bemused-trout-917
+run_uuid: f312c65d3bc649439b75dd48d95d2f65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679380851799
+status: 3
+tags: []
+user_id: programmer

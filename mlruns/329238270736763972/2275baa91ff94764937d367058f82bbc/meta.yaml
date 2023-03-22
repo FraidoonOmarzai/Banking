@@ -1,0 +1,15 @@
+artifact_uri: file:///home/programmer/Desktop/general/MLOps/Banking/mlruns/329238270736763972/2275baa91ff94764937d367058f82bbc/artifacts
+end_time: 1679497539357
+entry_point_name: ''
+experiment_id: '329238270736763972'
+lifecycle_stage: active
+run_id: 2275baa91ff94764937d367058f82bbc
+run_name: dashing-lark-886
+run_uuid: 2275baa91ff94764937d367058f82bbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679497531829
+status: 3
+tags: []
+user_id: programmer

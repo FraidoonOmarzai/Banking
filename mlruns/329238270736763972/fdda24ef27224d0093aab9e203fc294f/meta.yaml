@@ -1,0 +1,16 @@
+artifact_uri: file:///home/programmer/Desktop/general/MLOps/Banking/mlruns/329238270736763972/fdda24ef27224d0093aab9e203fc294f/artifacts
+deleted_time: 1679497566932
+end_time: 1679381777502
+entry_point_name: ''
+experiment_id: '329238270736763972'
+lifecycle_stage: deleted
+run_id: fdda24ef27224d0093aab9e203fc294f
+run_name: abrasive-quail-193
+run_uuid: fdda24ef27224d0093aab9e203fc294f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679381756001
+status: 3
+tags: []
+user_id: programmer

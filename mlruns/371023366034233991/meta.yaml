@@ -1,0 +1,6 @@
+artifact_location: file:///home/programmer/Desktop/general/MLOps/Banking/mlruns/371023366034233991
+creation_time: 1679380851403
+experiment_id: '371023366034233991'
+last_update_time: 1679380851403
+lifecycle_stage: active
+name: basic_classifier
