@@ -54,5 +54,5 @@ git push origin main
     * MLflow Section
         * MLflow experiment creation
         * MLflow creating experiment and register mode
-        
-        
+        * Fetching an MLflow Model from the Model Registry
+        * Transitioning an MLflow Model’s Stage
