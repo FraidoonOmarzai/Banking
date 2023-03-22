@@ -1,0 +1,12 @@
+creation_timestamp: 1679498882980
+current_stage: None
+description: ''
+last_updated_timestamp: 1679498882980
+name: classifier_register
+run_id: 65fc7ccf0b2a42c1a5a5e2e620ca1310
+run_link: ''
+source: mlflow-artifacts:/593155283755622937/65fc7ccf0b2a42c1a5a5e2e620ca1310/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 2

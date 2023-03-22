@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/800451448614581056/df5504ec91ed4006a51f32c100fd3f63/artifacts
+end_time: 1679498941541
+entry_point_name: ''
+experiment_id: '800451448614581056'
+lifecycle_stage: active
+run_id: df5504ec91ed4006a51f32c100fd3f63
+run_name: term_deposit_register
+run_uuid: df5504ec91ed4006a51f32c100fd3f63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679498937043
+status: 3
+tags: []
+user_id: programmer

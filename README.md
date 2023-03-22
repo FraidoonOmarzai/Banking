@@ -53,4 +53,6 @@ git push origin main
         * Basic model creatin and making the prediction
     * MLflow Section
         * MLflow experiment creation
+        * MLflow creating experiment and register mode
+        
         

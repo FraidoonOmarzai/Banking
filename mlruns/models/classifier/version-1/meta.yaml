@@ -1,0 +1,12 @@
+creation_timestamp: 1679498595495
+current_stage: None
+description: ''
+last_updated_timestamp: 1679498595495
+name: classifier
+run_id: 33a80bc7037745fba3d98964917c2bd8
+run_link: ''
+source: file:///home/programmer/Desktop/general/MLOps/Banking/mlruns/371023366034233991/33a80bc7037745fba3d98964917c2bd8/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

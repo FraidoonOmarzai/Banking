@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/593155283755622937/65fc7ccf0b2a42c1a5a5e2e620ca1310/artifacts
+end_time: 1679498883014
+entry_point_name: ''
+experiment_id: '593155283755622937'
+lifecycle_stage: active
+run_id: 65fc7ccf0b2a42c1a5a5e2e620ca1310
+run_name: term_deposit_register
+run_uuid: 65fc7ccf0b2a42c1a5a5e2e620ca1310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679498878526
+status: 3
+tags: []
+user_id: programmer
